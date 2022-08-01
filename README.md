@@ -38,7 +38,15 @@
       
   > Careless Bird.exe
 
+### Control🎮:
+🕹️Use <kbd>Space</kbd> key to jump🛩️
+
 <br>
+
+## Notable forks🔱
+
+- [**@NABEGHEHACOM** > FlappyBird](https://github.com/NABEGHEHACOM/FlappyBird)
+<BR>
 
 ## Bug & Troubleshooting 👨‍💻
 
